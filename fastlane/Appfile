@@ -1,0 +1,2 @@
+json_key_file "app/misc/7ac74682873a.json" # Path to the json secret file - Follow https://github.com/fastlane/supply#setup to get one
+package_name "play_store_up_test.android.cayhanecamel.jp.myapplication" # e.g. com.krausefx.app
